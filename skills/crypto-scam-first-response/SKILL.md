@@ -1,6 +1,6 @@
 ---
 name: crypto-scam-first-response
-description: Use when someone says they lost money or crypto to a scam (a fake trading platform, pig butchering, a romance or job scam, a Bitcoin ATM, an impersonation call, a drained wallet or a SIM swap), asks how to get the money back, or asks whether a crypto recovery service is legitimate. Guides the first hours and days: stop further losses, save evidence, report it, understand how recovery works, and choose help safely.
+description: "Use when someone says they lost money or crypto to a scam (a fake trading platform, pig butchering, a romance or job scam, a Bitcoin ATM, an impersonation call, a drained wallet or a SIM swap), asks how to get the money back, or asks whether a crypto recovery service is legitimate. Guides the first hours and days: stop further losses, save evidence, report it, understand how recovery works, and choose help safely."
 ---
 
 # Crypto scam first response
